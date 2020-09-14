@@ -197,7 +197,7 @@ A -> B -> C -> D -> E -> F -> G -> H -> I -> I -> J
 
 > 题：建立二叉树，并输出每个字符所在的层数。
 
-![155fe37d2181319101a38a452d417122.png](evernotecid://4C1CF0FC-6574-4271-8E25-0D6386F782B6/appyinxiangcom/30295208/ENResource/p20)
+![tree.png](/Tree/images/tree.png)
 
 
 ```javascript
@@ -214,7 +214,7 @@ const _tree = ['A', 'B', null, 'D', null, null,
 
 // 2:根据序列结构，生成树
 const createBinaryTree = () => {
-    // 有点卡壳，晚点看看
+    // 
 }
 
 ```
